@@ -1,0 +1,28 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: 'Lobster', cursive;
+    width: 100%;
+    margin-top: 0%;
+}
+
+canvas{
+    border: 5px solid aquamarine;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+#back{
+    background-color: rgb(49, 10, 10); 
+    float:right;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    border-radius: 10px;
+}
